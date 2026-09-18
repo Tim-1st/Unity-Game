@@ -34,6 +34,41 @@ Un jeu de plateforme développé avec Unity. Le joueur progresse en traversant e
   </a>
 </p>
 
-## Auteur
+## Auteurs
 
-Développé par **Timéo** — [Portfolio](https://tim-1st.github.io/portfolio/)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Tim-1st">
+        <img src="https://github.com/Tim-1st.png" width="80" style="border-radius:50%" alt="Tim-1st" /><br />
+        <sub><b>@Tim-1st</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/b4ssem">
+        <img src="https://github.com/b4ssem.png" width="80" style="border-radius:50%" alt="b4ssem" /><br />
+        <sub><b>@b4ssem</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nssevy">
+        <img src="https://github.com/nssevy.png" width="80" style="border-radius:50%" alt="nssevy" /><br />
+        <sub><b>@nssevy</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ains-off">
+        <img src="https://github.com/Ains-off.png" width="80" style="border-radius:50%" alt="Ains-off" /><br />
+        <sub><b>@Ains-off</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mlkr-pro">
+        <img src="https://github.com/mlkr-pro.png" width="80" style="border-radius:50%" alt="mlkr-pro" /><br />
+        <sub><b>@mlkr-pro</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
