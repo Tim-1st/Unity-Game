@@ -1,4 +1,4 @@
-<h1 align="center">Unity-Game</h1>
+<h1 align="center">Unity Game - SAE 402</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projet_MMI-2e_Année-2088FF?style=for-the-badge" alt="Projet MMI 2e Année" />
